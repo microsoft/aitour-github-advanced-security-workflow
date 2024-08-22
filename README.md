@@ -1,11 +1,12 @@
 
 # BRK422 - GitHub Advanced Security: Securing your workflow
 
-This repo is intended as a template for Microsoft AI Tour repositories
 
-## Session Desciption
+## Session Description
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+GitHub Advanced Security features are built directly into the development workflow, making them easy to use and giving developers the ability to catch potential security issues as early in the software development lifecycle as possible.
+
+Learn how to prevent common security issues from being merged into your codebase, how to find and fix vulnerabilities faster with AI, and how to keep your dependencies updated via GitHub Advanced Security.
 
 ## Learning Outcomes
 TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
