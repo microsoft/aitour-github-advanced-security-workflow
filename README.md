@@ -12,6 +12,10 @@ TODO: Add a list of what you hope the attendee will take away from this session.
 
 ## Technology Used
 - GitHub Advanced Security
+   - Dependabot
+   - Secret Scanning
+   - CodeQL
+   - Copilot Autofix
 - GitHub Actions
 
 ## Additional Resources and Continued Learning
