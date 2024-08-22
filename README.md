@@ -22,11 +22,6 @@ TODO: If you would like to link the user to further learning, please enter that 
 | Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Content Owners
-TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <table>
