@@ -39,11 +39,11 @@ TODO: Add yourself as a content owner
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
+        <img src="https://github.com/S2FrdQ.png" width="100px;" alt="Chris Testa-O'Neill
 "/><br />
         <sub><b>INSERT NAME HERE
 </b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
+            <a href="https://github.com/S2FrdQ" title="talk">📢</a> 
     </td>
 </tr></table>
 
