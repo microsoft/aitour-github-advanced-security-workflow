@@ -1,7 +1,3 @@
-## TODO:
-Update this page as you see fit to properly train a future presenter of your content. A past train the trainer repo is included below for your assitance, but feel free to make any changes.
-
-Note: Please make sure to update any links within the markdown so they point to the correct file.
 
 ## How To Use
 
@@ -33,7 +29,7 @@ This training repository is divided in to the following sections:
 
 | [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
 |-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
+| 30 slides - 21 minutes| 3 demos - 24 minutes | Demo setup
 
 ## Slides
 
@@ -52,7 +48,7 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 ## Deployment / Preparation
 
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
+>**What's Here?** Deploying the demo environment on GitHub - including the prerequisites.
 
 [Instructions and prerequisites are outlined here](deployment/README.md). 
 
