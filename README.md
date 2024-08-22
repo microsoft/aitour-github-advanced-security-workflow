@@ -11,8 +11,8 @@ TODO: Add short description of the session. Please note this description should 
 TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
 
 ## Technology Used
-GitHub Advanced Security
-GitHub Actions
+- GitHub Advanced Security
+- GitHub Actions
 
 ## Additional Resources and Continued Learning
 
