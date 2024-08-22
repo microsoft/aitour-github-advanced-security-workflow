@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/75484d57-03a4-4006-a501-b49a66655142)
 # BRK422 - GitHub Advanced Security: Securing your workflow
 
 
@@ -9,7 +9,13 @@ GitHub Advanced Security features are built directly into the development workfl
 Learn how to prevent common security issues from being merged into your codebase, how to find and fix vulnerabilities faster with AI, and how to keep your dependencies updated via GitHub Advanced Security.
 
 ## Learning Outcomes
-TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
+- Learn how to enable Dependabot alerts and get notifications about vulnerable dependencies, including a link to the affected file in the project and information about a fixed version.
+- See how to automatically update or generate a pull request to update vulnerable dependencies.
+- Discover how to automatically update supported packages used by your repository on a schedule you configure.
+- Learn how to enable Secret scanning and Push protection proactively prevents secret leaks by scanning code on commit and blocking a push if a secret is present.
+- Find vulnerabilities before they are merged into the code base with automated CodeQL scans.
+- Learn how to get suggested code fixes powered by AI in pull requests.
+
 
 ## Technology Used
 - GitHub Advanced Security
