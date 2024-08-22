@@ -26,11 +26,11 @@ TODO: Add a list of any technology or software used.
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/S2FrdQ.png" width="100px;" alt="Chris Testa-O'Neill
+        <img src="https://developer.microsoft.com/en-us/advocates/media/profiles/joylynn-kirui.jpg" width="100px;" alt="Chris Testa-O'Neill
 "/><br />
         <sub><b>Joylynn Kirui
 </b></sub></a><br />
-            <a href="https://github.com/S2FrdQ" title="talk">📢</a> 
+            <a href="[https://developer.microsoft.com/advocates/joylynn-kirui]" title="talk">📢</a> 
     </td>
 </tr></table>
 
