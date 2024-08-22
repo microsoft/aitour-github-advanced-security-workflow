@@ -11,14 +11,15 @@ TODO: Add short description of the session. Please note this description should 
 TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
 
 ## Technology Used
-TODO: Add a list of any technology or software used.
+GitHub Advanced Security
+GitHub Actions
 
 ## Additional Resources and Continued Learning
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Docs  | [Docs](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) | About GitHub Advanced Security |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| Certification  | [GitHub Advanced Security Certification Program](https://examregistration.github.com/) | Learn more about GitHub Certifications |
 
 ## Content Owners
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
