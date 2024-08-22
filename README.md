@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75484d57-03a4-4006-a501-b49a66655142)
+
 # BRK422 - GitHub Advanced Security: Securing your workflow
 
 
