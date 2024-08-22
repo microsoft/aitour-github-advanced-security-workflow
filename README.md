@@ -17,7 +17,7 @@ TODO: Add a list of any technology or software used.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Docs  | [Link 1]([https://www.google.com/](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) | About GitHub Advanced Security |
+| Docs  | [Docs](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) | About GitHub Advanced Security |
 | Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Content Owners
