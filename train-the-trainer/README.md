@@ -18,7 +18,7 @@ code.
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | - [Presentation](https://aka.ms/AArxq55) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with audio |
-| Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
+| Videos            | - [Microsoft Build Recording](https://youtu.be/aIP80lrDObE?si=ymk951HAxme-ET0D) | Bake Security into your workflow with GitHub Advanced Security and AI |
 | Demos             | - [Demo Script](https://aka.ms/AArxxtu) | Demo Content | 
 | Demo Recordings           | - [Demo1 - Dependabot](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 1 (With audio) | 
 | Demo Recordings           | - [Demo1 - Dependabot](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 1 (Without audio) | 
