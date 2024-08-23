@@ -30,6 +30,8 @@ Learn how to prevent common security issues from being merged into your codebase
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Docs  | [Docs](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) | About GitHub Advanced Security |
+| Docs  | [Dependabot security updates Doc](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates) | About Dependabot security updates |
+| Docs  | [Copilot Autofix Doc](https://docs.github.com/en/code-security/code-scanning/managing-code-scanning-alerts/about-autofix-for-codeql-code-scanning#autofix-generation-process) | About Copilot Copilot Autofix for CodeQL code scanning |
 | Certification  | [GitHub Advanced Security Certification Program](https://examregistration.github.com/) | Learn more about GitHub Certifications |
 
 ## Content Owners
