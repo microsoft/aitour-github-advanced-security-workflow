@@ -35,16 +35,21 @@ This training repository is divided in to the following sections:
 
 The [slides](presentations.md) have presenter notes in each part of the session
 
-### Timing
+### Timing (Total 45 minutes)
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+0:00 - 6:00   | Intro - Current state of AppSec *(Slide 2 - 6)*
+6:00 - 11:00  | What is GitHub Advanced Security? *(Slide 7 - 9)*
+11:00 - 14:00 | Supply chain overview *(Slide 10 - 13)*
+14:00 - 19:00 | Dependabot Demo *(Slide 14)*
+19:00 - 22:00 | Secret scanning overview *(Slide 15 - 18)*
+22:00 - 27:00 | Secret scanning Demo *(Slide 19)*
+27:00 - 30:00 | Code scanning overview *(Slide 20 - 22)*
+30:00 - 35:00 | Code scanning Demo *(Slide 23)*
+35:00 - 38:00 | Security community overview *(Slide 24 - 27)*
+38:00 - 40:00 | Key event takeaways *(Slide 28, 29)*
+40:00 - 45:00 | Q&A *(Slide 30)*
 
 ## Deployment / Preparation
 
