@@ -32,7 +32,7 @@ code.
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
+| [Slides](#slides) | [Demos](https://github.com/microsoft/aitour-github-advanced-security-workflow/blob/main/session-delivery-resources/README.md#demos) | [Deployment](deployment/README.md) | 
 |-------------------|---------------------------|--------------------------------------
 | 30 slides - 21 minutes| 3 demos - 24 minutes | Demo setup
 
