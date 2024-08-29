@@ -65,11 +65,12 @@ The [slides](https://aka.ms/AArxq55) have presenter notes in each part of the se
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
+> **What's Here?** Pre-delivery preparation, stage ready videos, required files, and walk-through videos
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools on GitHub. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
-
+|  [1 - Dependabot Demo](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 14       | [Link](https://aka.ms/AAryyxv)] |
+|  [2 - Secret scanning Demo](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 22       | [Link](https://aka.ms/AAryr8l) |
+|  [3 - Code scanning Demo](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 22       | [Link](https://aka.ms/AAryyxy) |
