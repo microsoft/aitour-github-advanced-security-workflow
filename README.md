@@ -1,6 +1,6 @@
 
 # BRK422 - GitHub Advanced Security: Securing your workflow
-
+If you will be delivering this session, consult the session-delivery-resources page for slides, demo scripts, and other resources.
 
 ## Session Description
 
