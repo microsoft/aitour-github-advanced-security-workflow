@@ -17,15 +17,15 @@ code.
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | - [Presentation](https://aka.ms/AArxq55) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with audio |
+| PPT Recording     | - [Presentation](https://aka.ms/AAryyy7) | Video Recording of the PowerPoint slides with audio |
 | Videos            | - [Microsoft Build Recording](https://youtu.be/aIP80lrDObE?si=ymk951HAxme-ET0D) | Bake Security into your workflow with GitHub Advanced Security and AI |
 | Demos             | - [Demo Script](https://aka.ms/AArxxtu) | Demo Content | 
-| Demo Recordings           | - [Demo1 - Dependabot](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 1 (With audio) | 
-| Demo Recordings           | - [Demo1 - Dependabot](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 1 (Without audio) | 
-| Demo Recordings           | - [Demo2 - Secret scanning](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 2 (With audio) | 
-| Demo Recordings           | - [Demo2 - Secret scanning](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 2 (Without audio) |  
-| Demo Recordings           | - [Demo3 - Code scanning](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 3 (With audio) | 
-| Demo Recordings           | - [Demo3 - Code scanning](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo 3 (Without audio) |  
+| Demo Recordings           | - [Demo1 - Dependabot](https://aka.ms/AAryyxv) | Recording of the Demo 1 (With audio) | 
+| Demo Recordings           | - [Demo1 - Dependabot](https://aka.ms/AAryr8h) | Recording of the Demo 1 (Without audio) | 
+| Demo Recordings           | - [Demo2 - Secret scanning](https://aka.ms/AAryr8l) | Recording of the Demo 2 (With audio) | 
+| Demo Recordings           | - [Demo2 - Secret scanning](https://aka.ms/AAryjko) | Recording of the Demo 2 (Without audio) |  
+| Demo Recordings           | - [Demo3 - Code scanning](https://aka.ms/AAryyxy) | Recording of the Demo 3 (With audio) | 
+| Demo Recordings           | - [Demo3 - Code scanning](https://aka.ms/AAryjkr) | Recording of the Demo 3 (Without audio) |  
 
 
 ## Get Started
