@@ -71,6 +71,8 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Dependabot Demo](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 14       | [Link](https://aka.ms/AAryyxv)] |
-|  [2 - Secret scanning Demo](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 22       | [Link](https://aka.ms/AAryr8l) |
-|  [3 - Code scanning Demo](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 22       | [Link](https://aka.ms/AAryyxy) |
+|  [1 - Dependabot Demo] | 14       | [Link](https://aka.ms/AAryyxv) |
+|  [2 - Secret scanning Demo] | 22       | [Link](https://aka.ms/AAryr8l) |
+|  [3 - Code scanning Demo] | 22       | [Link](https://aka.ms/AAryyxy) |
+
+For Demo 3 on code scanning, please use this vulnerable code file for the demo on Step 3.
