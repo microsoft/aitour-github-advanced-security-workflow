@@ -1,7 +1,7 @@
-Prerequisites:
+##Prerequisites:
 - Have access to a GitHub organization with GitHub Advanced Security license
 
-Deployment:
+##Deployment:
 - In your organization, click on **New** to create a new repository.
   ![organisation](https://github.com/user-attachments/assets/bdb1931f-d003-47b8-9a31-c503126a123b)
 
@@ -15,4 +15,4 @@ Deployment:
   ![repo](https://github.com/user-attachments/assets/4034c800-b5b3-4d7f-bbd7-13de8282f672)
 
 - Wait for the import to finish.
-This is the repository to use going into the session demos. Please navigate to 
+This is the repository to use going into the session demos. Please navigate the session details [here](https://github.com/microsoft/aitour-github-advanced-security-workflow/tree/main/session-delivery-resources#readme).
