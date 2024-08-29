@@ -75,4 +75,4 @@ Detailed explanations of each demonstration associated with this presentation ca
 |  [2 - Secret scanning Demo] | 22       | [Link](https://aka.ms/AAryr8l) |
 |  [3 - Code scanning Demo] | 22       | [Link](https://aka.ms/AAryyxy) |
 
-For Demo 3 on code scanning, please use this vulnerable code file for the demo on Step 3.
+For Demo 3 on code scanning, please use this [vulnerable code file](https://github.com/microsoft/aitour-github-advanced-security-workflow/blob/main/session-delivery-resources/deployment/sql.js) for the demo on Step 3.
