@@ -1,7 +1,7 @@
-##Prerequisites:
+## Prerequisites:
 - Have access to a GitHub organization with GitHub Advanced Security license
 
-##Deployment:
+## Deployment:
 - In your organization, click on **New** to create a new repository.
   ![organisation](https://github.com/user-attachments/assets/bdb1931f-d003-47b8-9a31-c503126a123b)
 
