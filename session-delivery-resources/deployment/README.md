@@ -15,4 +15,4 @@
   ![repo](https://github.com/user-attachments/assets/4034c800-b5b3-4d7f-bbd7-13de8282f672)
 
 - Wait for the import to finish.
-This is the repository to use going into the session demos. Please navigate the session details [here](https://github.com/microsoft/aitour-github-advanced-security-workflow/tree/main/session-delivery-resources#readme).
+This is the repository to use going into the session demos. Please navigate to the session details [here](https://github.com/microsoft/aitour-github-advanced-security-workflow/tree/main/session-delivery-resources#readme).
