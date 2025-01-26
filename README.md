@@ -40,7 +40,7 @@ Learn how to prevent common security issues from being merged into your codebase
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://developer.microsoft.com/en-us/advocates/media/profiles/joylynn-kirui.jpg" width="100px;" alt="Chris Testa-O'Neill
+        <img src="https://developer.microsoft.com/en-us/advocates/media/profiles/joylynn-kirui.jpg" width="100px;" alt="Joylynn Kirui
 "/><br />
         <sub><b>Joylynn Kirui
 </b></sub></a><br />
@@ -50,7 +50,7 @@ Learn how to prevent common security issues from being merged into your codebase
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://developer.microsoft.com/en-us/advocates/media/profiles/Anthony-Bartolo.jpg" width="100px;" alt="Chris Testa-O'Neill
+        <img src="https://developer.microsoft.com/en-us/advocates/media/profiles/anthony-bartolo.png" width="100px;" alt="Anthony Bartolo
 "/><br />
         <sub><b>Anthony Bartolo
 </b></sub></a><br />
