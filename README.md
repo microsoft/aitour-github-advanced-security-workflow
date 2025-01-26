@@ -47,6 +47,16 @@ Learn how to prevent common security issues from being merged into your codebase
             <a href="[https://developer.microsoft.com/advocates/joylynn-kirui]" title="talk">📢</a> 
     </td>
 </tr></table>
+<table>
+<tr>
+    <td align="center"><a href="http://learnanalytics.microsoft.com">
+        <img src="https://developer.microsoft.com/en-us/advocates/media/profiles/Anthony-Bartolo.jpg" width="100px;" alt="Chris Testa-O'Neill
+"/><br />
+        <sub><b>Anthony Bartolo
+</b></sub></a><br />
+            <a href="[https://developer.microsoft.com/advocates/anthony-bartolo]" title="talk">📢</a> 
+    </td>
+</tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
